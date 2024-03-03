@@ -8,7 +8,7 @@ import 'react-toastify/dist/ReactToastify.css';
 
 // import 'bootstrap/dist/css/bootstrap.min.css'
 
-export const server='http://localhost:2000/api';
+export const server='https://mern-website-backend.onrender.com/api';
  
 
 
